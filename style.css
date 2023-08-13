@@ -1,0 +1,25 @@
+body{
+    
+}
+.card{
+ 
+ width: 500px;
+ height: 400px;
+ margin-left: 30%;
+}
+.input{
+    background: linear-gradient(135deg, #00feba ,#5b548a) ;
+    color: white;
+    width:326px;
+    height: 100px;
+    font-size: 35px;
+    border-radius: 5px;
+}
+
+.button{
+    background: linear-gradient(135deg, #00feba ,#5b548a) ;
+    width: 80px;
+    border-radius: 4px;
+    height: 70px;
+    background-color: white;
+}
